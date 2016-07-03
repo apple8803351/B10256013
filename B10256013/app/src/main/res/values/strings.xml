@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">B10256013</string>
+
+    <string name="member_login">會員登入</string>
+    <string name="username">帳號:</string>
+    <string name="password">密碼:</string>
+    <string name="login">登入</string>
+    <string name="register">註冊</string>
+</resources>
